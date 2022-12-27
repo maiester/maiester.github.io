@@ -1,3 +1,4 @@
 ---
+title:Merch
 ---
 Merch-Content
