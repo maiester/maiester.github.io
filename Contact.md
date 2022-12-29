@@ -4,7 +4,8 @@ title: Contact
 
 ## By Email
 The best and probably easiest way to contact maiester is writing an email to
-**info@maiester.de**
+<info@maiester.de>
+
 ## via Mastodon
 Follow us via Mastodon:
 **maiester@mastodon.online**
