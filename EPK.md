@@ -7,6 +7,8 @@ title: Press Kit
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ni3kIHDZeQ0LSIjIXW5Zt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/home/1601548142?i=1601548446"></iframe>
+
 * **Never leave me alone**: <https://open.spotify.com/track/41SX6A2eOgDxg8stHN0Hm1>
 * **Keep Away**: <https://open.spotify.com/track/7jNTvdwyXo6Gj3ZGD0Gtgc> 
 * **Falling in Love**: <https://open.spotify.com/track/2WGiyLkRgik4Tes3PpGQlz>
