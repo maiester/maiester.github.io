@@ -22,7 +22,7 @@ layout: default
 <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
   <div class="card-header">{{ post.date | date: date_format }} &nbsp;• {{ post.author }}</div>
   <div class="card-body">
-    <h4 class="card-title">{{ {{ post.title | escape }} }}</h4>
+    <h4 class="card-title">{{ post.title | escape }}</h4>
     <p class="card-text">{{ post.content }}</p>
   </div>
 </div>
