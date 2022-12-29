@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcement: March 2023 performance
+title: Announcement March 2023 performance
 author: Anke
 ---
 
