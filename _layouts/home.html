@@ -18,6 +18,15 @@ layout: default
     <p class="h4">{{ page.list_title | default: "News" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
+      
+<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+  <div class="card-header">{{ post.date | date: date_format }} &nbsp;• {{ post.author }}</div>
+  <div class="card-body">
+    <h4 class="card-title">{{ {{ post.title | escape }} }}</h4>
+    <p class="card-text">{{ post.content }}</p>
+  </div>
+</div>
+            
       <li>
         <span class="text-muted">
           {%- assign date_format = "%b %-d, %Y" -%}
@@ -39,16 +48,6 @@ layout: default
       {%- endfor -%}
     </ul>
   
-<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-  <div class="card-header">{{ post.date | date: date_format }} &nbsp;• {{ post.author }} </div>
-  <div class="card-body">
-    <h4 class="card-title">{{ {{ post.title | escape }} }}</h4>
-    <p class="card-text">{{ post.content }}</p>
-  </div>
-</div>
-  
-  
-
     <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
   {%- endif -%}
 
