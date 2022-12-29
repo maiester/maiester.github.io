@@ -2,13 +2,14 @@
 title: Press Kit
 ---
 
-EPK-Content
-
 ## The Music of maiester
-* **Home**: https://open.spotify.com/track/1Ni3kIHDZeQ0LSIjIXW5Zt 
-* **Never leave me alone**: https://open.spotify.com/track/41SX6A2eOgDxg8stHN0Hm1 
-* **Keep Away**: https://open.spotify.com/track/7jNTvdwyXo6Gj3ZGD0Gtgc 
-* **Falling in Love**: https://open.spotify.com/track/2WGiyLkRgik4Tes3PpGQlz 
+* **Home**: <https://open.spotify.com/track/1Ni3kIHDZeQ0LSIjIXW5Zt>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ni3kIHDZeQ0LSIjIXW5Zt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+* **Never leave me alone**: <https://open.spotify.com/track/41SX6A2eOgDxg8stHN0Hm1>
+* **Keep Away**: <https://open.spotify.com/track/7jNTvdwyXo6Gj3ZGD0Gtgc> 
+* **Falling in Love**: <https://open.spotify.com/track/2WGiyLkRgik4Tes3PpGQlz>
 
 
 ## The People behind maiester
