@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Announcement March 2023 performance
+tags: gig
 author: Anke
-permalink: /website
+permalink: /posts
 excerpt_separator: <!--more-->
 ---
 
