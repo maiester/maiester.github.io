@@ -36,7 +36,7 @@ After this drastic change in the setup, we limited ourselves to working in the s
 
 As the situation for band gigs is slowly but surely easing again, we want to perform more and are rehearsing for a first gig in March.
 
-## Tne Pictures of maiester
+## The Pictures of maiester
 ![Bandfoto quer mit Instrumenten in schwarzweiß](assets/img/bandfoto_landscape_bw.jpeg)
 ![Bandfoto hochkant mit Instrumenten in schwarzweiß](assets/img/bandfoto_portrait_bw.jpeg)
 ![Anke solo beim Bassspielen](assets/img/solo_anke_landscape_c.jpeg)
