@@ -15,15 +15,15 @@ layout: default
   </section>
 
   {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+    <p class="h4">{{ page.list_title | default: "News" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
       <li>
         <span class="text-muted">
           {%- assign date_format = "%b %-d, %Y" -%}
           {{ post.date | date: date_format }}
-                {%- if page.author -%}
-                • {{ page.author }}
+                {%- if post.author -%}
+                • {{ post.author }}
                 {%- endif -%}
         </span>
         <p class="h5">
