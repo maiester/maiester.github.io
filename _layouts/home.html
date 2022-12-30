@@ -18,8 +18,10 @@ layout: default
     <p class="h4">{{ page.list_title | default: "News" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
+     
+      {%- assign bordercolor = "border-success" -%}
       
-    <div class="card text-white bg-primary mb-3" style="max-width: 80rem;">
+    <div class="card text-white bg-primary mb-3 {{ bordercolor }}" style="max-width: 80rem;">
       {%- assign date_format = "%b %-d, %Y" -%}
       <div class="card-header">{{ post.date | date: date_format }} {%- if post.author -%} &nbsp;• {{ post.author }} {%- endif -%}</div>
       <div class="card-body">
