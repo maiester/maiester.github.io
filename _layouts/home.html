@@ -19,7 +19,9 @@ layout: default
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
      
+      {%- if posts.tag == "gig" -%}
       {%- assign bordercolor = "border-success" -%}
+      {%- endif -%}
       
     <div class="card text-white bg-primary mb-3 {{ bordercolor }}" style="max-width: 80rem;">
       {%- assign date_format = "%b %-d, %Y" -%}
