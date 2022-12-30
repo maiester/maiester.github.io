@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dummy Entry
-tags: gig release party
+tag: release
 author: Anke
 permalink: /website
 excerpt_separator: <!--more-->
