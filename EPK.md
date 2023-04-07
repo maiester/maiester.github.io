@@ -18,7 +18,7 @@ title: Press Kit
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-      ![Anke shouts](assets/img/profile_anke.jpeg)
+      ![Anke shouts](/assets/img/profile_anke.jpeg)
     </div>
     <div class="col-md-6">
       Anke plays bass, writes the lyrics and sings the lead vocals and most of the background parts.  
