@@ -27,6 +27,10 @@ Besides that, she manages the website and the merch shop, creates cover images w
   </div>
 </div>
 
+{% include image_and_text.html image="/assets/img/profile_anke.jpeg" alt="Anke shouts" text="Anke plays bass, writes the lyrics and sings the lead vocals and most of the background parts.  
+Besides that, she manages the website and the merch shop, creates cover images with artificial intelligence, writes books on GitHub and pursues many other hobbies and activities." %}
+
+
 
 ### Markus
 ![Markus playing guitar](assets/img/profile_markus.jpeg)
