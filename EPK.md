@@ -15,10 +15,19 @@ title: Press Kit
 ## The People behind maiester
 
 ### Anke
-![Anke shouts](assets/img/profile_anke.jpeg)
-
-Anke plays bass, writes the lyrics and sings the lead vocals and most of the background parts.  
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      ![Anke shouts](assets/img/profile_anke.jpeg)
+    </div>
+    <div class="col-md-6">
+      Anke plays bass, writes the lyrics and sings the lead vocals and most of the background parts.  
 Besides that, she manages the website and the merch shop, creates cover images with artificial intelligence, writes books on GitHub and pursues many other hobbies and activities.
+    </div>
+  </div>
+</div>
+
+
 ### Markus
 ![Markus playing guitar](assets/img/profile_markus.jpeg)
 
