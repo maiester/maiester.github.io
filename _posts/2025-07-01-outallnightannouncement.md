@@ -7,7 +7,7 @@ permalink: /posts
 excerpt_separator: <!--more-->
 ---
 
-We are pleased to announce that we will be performing at the ""Out all night"" festival on 11.7.2025.
+We are pleased to announce that we will be performing at the "Out all night" festival on 11.7.2025.
 Hope to see you there!
 
 Unikum<br>
